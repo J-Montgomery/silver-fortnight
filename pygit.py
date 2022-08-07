@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 
 import argparse
-import os
-import sys
-import hashlib
-import configparser
-import zlib
+
+# import os
+# import sys
+# import hashlib
+# import configparser
+# import zlib
 
 
 def cmd_add(args):
